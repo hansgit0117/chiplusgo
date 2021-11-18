@@ -34,3 +34,4 @@ Tech stacks:
 
 Flutter, Dart, Firebase
 
+If you liked my work, don’t forget to ⭐ star the repo to show your support.
